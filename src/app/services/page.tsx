@@ -59,6 +59,7 @@ function page() {
                         src={b_1}
                         alt='404 Not Found'
                         height={700}
+                        priority
                     />
 
                     <p className='pt-6 text-center'>LUXURY RESIDENCES</p>
@@ -98,6 +99,7 @@ function page() {
                     <Image
                         src={b_2}
                         alt='404 Not Found'
+                        priority
                         height={700}
                     />
                     <p className='pt-6 text-center'>COMMERCIAL</p>
@@ -139,6 +141,7 @@ function page() {
                         src={b_3}
                         alt='404 Not Found'
                         height={700}
+                        priority
                     />
                     <p className='pt-4 text-center'>HOSPITALITY</p>
 

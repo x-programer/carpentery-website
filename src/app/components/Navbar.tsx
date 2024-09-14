@@ -2,7 +2,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import logo from '@/public/logo.png'
-import { AiOutlineMenu, AiOutlineClose, AiOutlineInstagram, AiOutlineFacebook } from 'react-icons/ai'
+import { AiOutlineMenu, AiOutlineClose, AiOutlineInstagram } from 'react-icons/ai'
 import { useState } from 'react'
 
 function Navbar() {

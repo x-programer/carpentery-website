@@ -3,7 +3,6 @@
 import { Raleway } from "next/font/google";
 import Image from "next/image";
 import Link from "next/link";
-import lower_img from '@/public/lower_.png'
 import imag_logo from '@/public/img_1-removebg-preview.png'
 import { AiOutlineInstagram } from "react-icons/ai";
 
