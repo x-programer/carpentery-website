@@ -34,7 +34,7 @@ function Navbar() {
               <li className='ml-10 uppercase '>SERVICES</li>
             </Link>
             <Link href={'/portfolio'}>
-              <li className='ml-10 uppercase '>PORTFOLIO</li>
+              <li className='ml-10 uppercase '>OUR WORK</li>
             </Link>
             <Link href={'/about'}>
               <li className='ml-10 uppercase '>ABOUT</li>
@@ -67,7 +67,7 @@ function Navbar() {
                 <li onClick={() => setMenuOpen(false)} className='py-4 uppercase hover:text-purple-600 '>SERVICES</li>
               </Link>
               <Link href={'/portfolio'}>
-                <li onClick={() => setMenuOpen(false)} className='py-4 uppercase hover:text-purple-600'>PORTFOLIO</li>
+                <li onClick={() => setMenuOpen(false)} className='py-4 uppercase hover:text-purple-600'>OUR WORK</li>
               </Link>
               <Link href={'/about'}>
                 <li onClick={() => setMenuOpen(false)} className='py-4 uppercase hover:text-purple-600'>ABOUT</li>
